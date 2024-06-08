@@ -15,3 +15,5 @@ TUTORIAL PENGGUNAAN,
 OPEN ANACONDA TERMINAL PADA FOLDER INI
 JALANKAN "python apps.py"
 AKSES DI WEB "localhost:5000"
+
+Berikut Dataset yang di perlukan : https://www.kaggle.com/datasets/arelsaputra/citra-daun-tumbuhan-dikotil-dan-monokotil
