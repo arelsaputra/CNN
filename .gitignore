@@ -1,0 +1,8 @@
+# Mengabaikan folder
+Dataset/
+.vscode/
+.ipynb_checkpoints/
+.dist/
+
+# Mengabaikan file dengan ekstensi .h5
+*.h5
